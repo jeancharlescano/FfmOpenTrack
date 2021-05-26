@@ -1,0 +1,31 @@
+{
+  "name": "ffmopentrack",
+  "version": "1.0.0",
+  "description": "l'application permet de récupérer les publications facebook des moto club afin de savoir si ils sont ouvert ou non",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeancharlescano/FfmOpenTrack.git"
+  },
+  "keywords": [
+    "app",
+    "desktop",
+    "ffm",
+    "moto",
+    "club",
+    "cross",
+    "track"
+  ],
+  "author": "Jean-Charles CANO",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeancharlescano/FfmOpenTrack/issues"
+  },
+  "homepage": "https://github.com/jeancharlescano/FfmOpenTrack#readme",
+  "devDependencies": {
+    "electron": "^13.0.1"
+  }
+}
